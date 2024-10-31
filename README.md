@@ -1,0 +1,3 @@
+# Music Player App
+## Android Native - Java
+A cutting-edge music player app, designed to elevate your listening experience to new heights. Seamlessly fetching all your favorite tracks, whether they're in .mp3 or .wav format, the app presents them in a sleek Recycler View interface for effortless navigation. With just a tap, immerse yourself in a world of melody as you're transported to a dedicated music player activity, complete with a dynamic loading indicator ensuring smooth playback. With intuitive controls at your fingertips—prev, pause, and next buttons—you're in full command of your musical journey, making every moment a symphony of delight.
